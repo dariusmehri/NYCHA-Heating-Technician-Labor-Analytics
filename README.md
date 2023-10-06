@@ -11,5 +11,6 @@ The objective of this project is to identify Heating Plant Technicians (HPTs) wh
 ##### Time Series Analysis
 Repeated reporting of the 70-120 temperature combination over time indicates deceptive practice. The 70-12 temperature combination is colored in orange, the other combinations are shaded out.
 
-![Time Series](https://github.com/dariusmehri/NYCHA-Heating-Technician-Labor-Analytics/assets/11237613/98a6602f-7ca4-4c4b-bfc4-0b13cb504675)
+![Time Series](https://github.com/dariusmehri/NYCHA-Heating-Technician-Labor-Analytics/assets/11237613/ee319b75-26ed-454f-8026-c385c7da2716)
+
 
