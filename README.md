@@ -18,3 +18,10 @@ Repeated reporting of the 70-120 temperature combination over time indicates dec
 Analysing the most frequently recorded temperature is an effective way of identifying deceptive practice. The highlighted column shows the mode relative frequency, the rate at which the HPTs record a 70-120 combination. The employee at the top of the table records a 70-120 combination 97% of the time. 
 
 ![Temp Mode](https://github.com/dariusmehri/NYCHA-Heating-Technician-Labor-Analytics/assets/11237613/8fc8f893-4514-4db7-af88-2caa6955c870)
+
+The frequency of the temperature combination can also be visualized using a rotated bar chart.
+
+![Temp Combos](https://github.com/dariusmehri/NYCHA-Heating-Technician-Labor-Analytics/assets/11237613/b2c8c0f1-7c4d-4295-bc54-0936b3c7e6e4)
+
+
+
