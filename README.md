@@ -24,9 +24,10 @@ The frequency of the temperature combination can also be visualized using a rota
 ![Temp Combos](https://github.com/dariusmehri/NYCHA-Heating-Technician-Labor-Analytics/assets/11237613/b2c8c0f1-7c4d-4295-bc54-0936b3c7e6e4)
 
 ##### Spatial Analytics
-The map shows where the 70-120 combination is occuring most freqently. The spatial points are sized by the number of 70-120 combinations reported to the agency.
+The map below shows where the 70-120 combination is occuring most freqently. The spatial points are sized by the number of 70-120 combinations reported to the agency.
 
-![map](https://github.com/dariusmehri/NYCHA-Heating-Technician-Labor-Analytics/assets/11237613/3e6ede65-e44f-44e7-971c-9d0d64e25d65)
+![map](https://github.com/dariusmehri/NYCHA-Heating-Technician-Labor-Analytics/assets/11237613/ec22f838-c40f-4ff2-93fe-1a716dace9e2)
+
 
 
 
